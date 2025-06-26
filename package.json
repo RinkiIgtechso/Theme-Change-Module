@@ -1,0 +1,23 @@
+{
+  "name": "react-theme-toggle-rinki",
+  "version": "1.0.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "description": "Simple theme switcher for web apps using data-theme attributes",
+  "author": "Rinki Kumari",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark-mode",
+    "light-mode",
+    "toggle",
+    "frontend",
+    "rinki"
+  ],
+  "scripts": {
+    "build": "tsc"
+  }
+}
